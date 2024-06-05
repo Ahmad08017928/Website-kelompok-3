@@ -22,12 +22,6 @@ Ini adalah proyek website galeri foto sederhana yang dibuat menggunakan HTML dan
 - `index.html`: File HTML utama yang berisi struktur dan konten website.
 - `README.md`: File ini, yang berisi informasi tentang proyek.
 
-## Pratinjau
-
-Berikut adalah tangkapan layar dari website galeri foto:
-
-![Pratinjau](screenshot.png)
-
 ## Kustomisasi
 
 Anda dapat menyesuaikan galeri dengan mengubah atau menambahkan gambar pada div dengan kelas `gallery-grid` di dalam file `index.html`. Gunakan elemen `figure` untuk menambah gambar baru. Contoh:
@@ -154,4 +148,3 @@ Anda dapat menyesuaikan galeri dengan mengubah atau menambahkan gambar pada div 
   }
   ```
   Mengatur gaya footer agar tetap berada di bagian bawah halaman dengan latar belakang gelap, teks putih, dan konten yang diselaraskan di tengah.
-# Website-kelompok-3
